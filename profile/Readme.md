@@ -8,7 +8,7 @@ Our links:
 - Discord: https://discord.com/invite/kCsQUJR7U4
 
 
-<img src="https://www.immutable.lol/token.png" alt="Your image title" width="250"/>
+<img src="https://raw.githubusercontent.com/ImmutableOrganization/Immutable-Frontend-Decentralized/main/cdn/logo_1024.png" alt="Your image title" width="250"/>
 
 Immutable Token
 
